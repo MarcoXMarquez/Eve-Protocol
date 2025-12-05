@@ -53,14 +53,8 @@ adjuntos (`data/`, `models_saved/`).
 - Usa `env` (ya incluida en el repo) o crea un virtualenv: `python -m venv env`.
 - Formato y lint: aplica tus herramientas locales (`black`, `flake8`).
 
-**Estructura resumida del repositorio**
+**Estructura del repositorio**
 - **`src/`**: Código fuente (ver arriba para archivos clave).
 - **`data/`**: Imágenes y datasets (`raw/`, `data_combined/`).
 - **`models_saved/`**: Modelos entrenados y checkpoints.
 - **`requirements.txt`**: Dependencias del proyecto.
-
-Si quieres, puedo:
-- Ejecutar una prueba rápida de inferencia local (si me autorizas).
-- Añadir ejemplos concretos de uso para `main.py` o `train.py`.
-
-Contacto: abre un issue o responde en este hilo para ajustes específicos.
