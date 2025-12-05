@@ -1,0 +1,21 @@
+# --- Python & Temporales ---
+__pycache__/
+*.py[cod]
+*.log
+
+# --- Entorno Virtual (¡MUY IMPORTANTE!) ---
+env/
+venv/
+.env
+
+# --- IDEs y Configuración de Sistema ---
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# --- PyInstaller (Carpetas de compilación del EXE) ---
+build/
+dist/
+*.spec
+
